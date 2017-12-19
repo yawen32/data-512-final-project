@@ -8,11 +8,11 @@ Overall, citation scores have relatively obvious impacts on rankings. On the con
 ### 1. University Ranking Data
 
 1.1 Times Higher Education World University Ranking (“timesData.csv”)
-Times Higher Education is a well-known global university ranking system which mainly focuses on a lot of non-English educational institutions and their commercialization. It collaborated with Thomson Reuters and started to use its own methodology since 2011. The dataset, “timesData.csv”, contains 2603 rows and 14 columns (13 performance indicators and 1 column for year). The performance indicators cover 5 major fields: teaching, research, citations, income, international outlook. I’ll use this dataset as a prime dataset to answer the majority of research questions. Columns found in the dataset are listed below:
+Times Higher Education is a well-known global university ranking system which mainly focuses on a lot of non-English educational institutions and their commercialization. It collaborated with Thomson Reuters and started to use its own methodology since 2011. The dataset, “timesData.csv”, contains 2603 rows and 14 columns (13 performance indicators and 1 column for year). The performance indicators cover 5 major fields: teaching, research, citations, income, international outlook. This dataset is used as a prime dataset to answer the majority of research questions. Columns found in the dataset are listed below:
 ![the_data](https://user-images.githubusercontent.com/26759376/34130268-0dc77d0c-e3fc-11e7-9260-d0622cbe69ad.png)
 
 1.2 Center for World University Rankings (“cwurData.csv”)
-As one of the largest and most comprehensive academic ranking of global universities, it was compiled by a Saudi Arabia-based organization since 2012. The dataset, “cwurData.csv”, contains 2200 rows and 14 columns. It will be used to make comparisons with the dataset in 4.1.1 and find any existing bias among ranking systems from different countries. The system uses 6 indicators to rank. Columns found in the dataset are listed below:
+As one of the largest and most comprehensive academic ranking of global universities, it was compiled by a Saudi Arabia-based organization since 2012. The dataset, “cwurData.csv”, contains 2200 rows and 14 columns. It is used to make comparisons with the dataset in 4.1.1 and find any existing bias among ranking systems from different countries. The system uses 6 indicators to rank. Columns found in the dataset are listed below:
 ![cwur_data](https://user-images.githubusercontent.com/26759376/34130289-1d977174-e3fc-11e7-9659-13f3f0ddec28.png)
 
 
@@ -24,7 +24,7 @@ Kaggle [Privacy Policy](https://www.kaggle.com/about/privacy) and [Terms of Use]
 
 ### 2. Supplementary Data
 2.1 Population Data (“Population Mid-2015.csv”)
-The population data is exactly the same dataset we used in the second assignment which contains the populations of a variety of counties collected in mid 2015. This dataset will be used to test the second hypothesis of research question 2. Columns found in the dataset are listed below:
+The population data is exactly the same dataset we used in the second assignment which contains the populations of a variety of counties collected in mid 2015. This dataset is used to test the second hypothesis of research question 2. Columns found in the dataset are listed below:
 ![population_data](https://user-images.githubusercontent.com/26759376/34130353-5682f206-e3fc-11e7-835a-d103b37edcd0.png)
 
 Check the data on [Population Research Bureau website](http://www.prb.org/DataFinder/Topic/Rankings.aspx?ind=14)
